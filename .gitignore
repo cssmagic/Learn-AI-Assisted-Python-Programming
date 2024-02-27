@@ -1,0 +1,34 @@
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.klive
+.dropbox.cache
+
+*.tmp
+*.bak
+*.swp
+*.lnk
+
+.svn
+.idea
+
+node_modules/
+bower_components/
+npm-debug.log
+
+*.zip
+*.gz
+
+# source files
+_raw/_source/*.json
+_raw/_source/figures/
+_raw/_source/theme/
+
+# temp files
+_raw/_source/*.md
+*~.*
+
+# utils
+_util/
