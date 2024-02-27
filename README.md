@@ -17,7 +17,7 @@
 
 ## 目录
 
-0. Welcome
+0. [Welcome](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)
 1. Introducing AI-assisted programming with Copilot
 2. Getting started with Copilot
 3. Designing functions
@@ -32,7 +32,7 @@
 
 <!-- -->
 
-0. 欢迎加入
+0. [欢迎加入](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)
 1. 基于 GitHub Copilot 介绍 AI 辅助编程
 2. 快速上手 GitHub Copilot
 3. 设计函数
