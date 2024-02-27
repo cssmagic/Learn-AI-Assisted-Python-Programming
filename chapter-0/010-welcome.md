@@ -1,6 +1,6 @@
 ---
-idxx: 1
-title: "欢迎加入"
+id: 1
+title: "[译] [010] 欢迎加入"
 ---
 
 # Welcome
@@ -35,7 +35,7 @@ At the same time, we need to caution you: it’s early. These tools seem to be c
 
 If you have any questions, comments, or suggestions, please share them in Manning’s liveBook Discussion forum for our book.
 
-如果您对这本书有任何疑问、意见或建议，请在 Manning LiveBook 的讨论区分享。
+如果您对这本书有任何疑问、意见或建议，请在 Manning 的开放出版论区分享。
 
 -—Leo Porter and Daniel Zingaro
 
