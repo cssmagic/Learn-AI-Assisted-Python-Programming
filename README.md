@@ -5,6 +5,8 @@
 > 
 > 英文原文来自 Manning 公司发布的预览版，与最终版可能有所不同。
 
+<img src="https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/assets/1231359/e56a42fa-d0a1-4b6f-9b02-5b6041cea0db" width="540" alt="Cover">
+
 ## 基本信息
 
 * 书名：Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT
