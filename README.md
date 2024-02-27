@@ -21,8 +21,8 @@
 
 0. 序章
 	* [欢迎加入](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)
-1. 基于 GitHub Copilot 介绍 AI 辅助编程
-	* 1.1 How we talk to computers
+1. [借助 GitHub Copilot 走近 AI 辅助编程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/2)
+	* [1.1 我们如何与计算机对话](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/3)
 	* 1.2 About the technology
 	* 1.3 How Copilot changes how we learn to program
 	* 1.4 What else can Copilot do for us?
