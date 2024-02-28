@@ -3,9 +3,9 @@
 
 > 这可能是 “AI 辅助编程” 领域的第一本著作。原版由 Manning 公司出版于 2023 年底，中文版引进情况不详。本仓库节选部分章节试译，仅供个人学习之用，严禁用于商业用途。
 > 
-> 英文原文来自 Manning 公司发布的预览版，与最终版可能有所不同。
+> 英文原文来自 Manning 出版公司发布的预览版，与最终版可能有所不同。
 
-<img src="https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/assets/1231359/e56a42fa-d0a1-4b6f-9b02-5b6041cea0db" width="540" alt="Cover">
+<img src="https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/assets/1231359/1ce9bd10-bc02-4cf4-9598-939d9ab3dd17" width="399" alt="Cover">
 
 ## 基本信息
 
@@ -16,6 +16,7 @@
 * 页数：约 296 页
 * 定价：39.99 美元
 * ISBN：9781633437784
+* 正版购买渠道：[Manning 官网](https://www.manning.com/books/learn-ai-assisted-python-programming) | [亚马逊](https://www.amazon.com/Learn-AI-assisted-Python-Programming-Copilot/dp/1633437787) | [天猫](https://detail.tmall.com/item.htm?id=750376185496)
 
 ## 目录
 
