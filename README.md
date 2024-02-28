@@ -41,6 +41,11 @@
 10. 开发小游戏
 11. 展望未来
 
+## 英文版正版购买渠道
+
+* [Manning 官网](https://www.manning.com/books/learn-ai-assisted-python-programming)：电子书、纸质书
+* [亚马逊](https://www.amazon.com/Learn-AI-assisted-Python-Programming-Copilot/dp/1633437787)：Kindle 电子书、纸质书
+* [天猫](https://detail.tmall.com/item.htm?id=750376185496)：纸质书
 
 ## 更多介绍
 
