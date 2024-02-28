@@ -22,9 +22,7 @@ npm-debug.log
 *.gz
 
 # source files
-_raw/_source/*.json
-_raw/_source/figures/
-_raw/_source/theme/
+_raw/
 
 # temp files
 _raw/_source/*.md
