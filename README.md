@@ -21,7 +21,7 @@
 
 0. 序章
 	* [欢迎加入](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)
-1. [借助 GitHub Copilot 走近 AI 辅助编程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/2)
+1. [借助 Copilot 走近 AI 辅助编程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/2)
 	* [1.1 我们如何与计算机对话](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/3)
 	* 1.2 About the technology
 	* 1.3 How Copilot changes how we learn to program
@@ -30,7 +30,7 @@
 	* 1.6 The skills we need
 	* 1.7 Societal concerns about AI code assistants like Copilot
 	* 1.8 本章小结
-2. 快速上手 GitHub Copilot
+2. 快速上手 Copilot
 3. 设计函数
 4. 阅读 Python 代码（上）
 5. 阅读 Python 代码（下）
@@ -50,7 +50,7 @@
 
 AI has changed the way we write computer programs. With tools like Copilot and ChatGPT, you can describe what you want in plain English, and watch your AI assistant generate the code right before your eyes. It’s perfect for beginners, or anyone who’s struggled with the steep learning curve of traditional programming.
 
-AI 改变了我们编写计算机程序的方式。通过使用 GitHub Copilot 和 ChatGPT 这样的工具，你只需用简单的语言描述你的需求，就可以看到 AI 助手在你眼前生成代码。这对于初学者或曾在传统编程的学习曲线上苦苦挣扎的人们来说，实在是太完美了。
+AI 改变了我们编写计算机程序的方式。通过使用 Copilot 和 ChatGPT 这样的工具，你只需用简单的语言描述你的需求，就可以看到 AI 助手在你眼前生成代码。这对于初学者或曾在传统编程的学习曲线上苦苦挣扎的人们来说，实在是太完美了。
 
 
 In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you’ll learn how to:
@@ -68,8 +68,8 @@ In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you�
 <!-- -->
 
 *   编写既有趣又实用的 Python 应用程序 —— 无需编程经验！
-*   利用 GitHub Copilot AI 编程助手来编写 Python 程序
-*   编写提示词，精确引导 GitHub Copilot
+*   利用 Copilot AI 编程助手来编写 Python 程序
+*   编写提示词，精确引导 Copilot
 *   阅读 Python 代码并理解其功能
 *   测试你的程序，确保它们按照你的意图运作
 *   利用提示词工程或人工微调来修复代码

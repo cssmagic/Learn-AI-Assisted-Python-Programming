@@ -25,9 +25,9 @@ This book is for those who are interested in learning how to write software with
 
 We’ve organized the book to get you started writing software with Copilot right from the start. Then we teach you the essential skills that you need to program with Copilot effectively: code reading, problem decomposition, and testing. After that, we’ll bring all the skills together to write small software projects in meaningful domains.
 
-我们组织了这本书，让你从一开始就能够开始使用 GitHub Copilot 编写软件。然后，我们教你与 GitHub Copilot 有效编程所需的基本技能：代码阅读、问题分解和测试。之后，我们将所有技能汇集起来，编写在有意义的领域中的小型软件项目。
+我们组织了这本书，让你从一开始就能够开始使用 Copilot 编写软件。然后，我们教你与 Copilot 有效编程所需的基本技能：代码阅读、问题分解和测试。之后，我们将所有技能汇集起来，编写在有意义的领域中的小型软件项目。
 
-我们精心安排了本书的结构，确保你一开始就能运用 GitHub Copilot 编写代码。接下来，我们将传授 GitHub Copilot 高效编程的核心技能：阅读代码、分析问题、进行测试。最后，我们会将这些技能结合起来，在具有实际意义的领域中完成小型软件项目的编写。
+我们精心安排了本书的结构，确保你一开始就能运用 Copilot 编写代码。接下来，我们将传授 Copilot 高效编程的核心技能：阅读代码、分析问题、进行测试。最后，我们会将这些技能结合起来，在具有实际意义的领域中完成小型软件项目的编写。
 
 At the same time, we need to caution you: it’s early. These tools seem to be changing on a daily basis. We don’t know what programming will look like when the dust settles. The two of us are exploring new territory with few established answers and we are excited to start this journey with you.
 
