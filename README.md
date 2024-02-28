@@ -78,3 +78,10 @@ In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you�
 _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ is a hands-on beginner’s guide that is written by two esteemed computer science university professors. It teaches you everything you need to start programming Python in an AI-first world. You’ll hit the ground running, writing prompts that tell your AI-assistant exactly what you want your programs to do. Along the way, you’ll pick up the essentials of Python programming and practice the higher-level thinking you’ll need to create working apps for data analysis, automating tedious tasks, and even video games.
 
 这本书是专为初学者准备的实操指南，出自两位备受敬仰的计算机科学领域大学教授之手。本书将全面指导你在 AI 时代如何开启 Python 编程之旅。你将快速上手，学会编写提示词，精确引导你的 AI 助理，完成你想要的编程任务。在这一过程中，你不仅会学到 Python 编程的核心知识，还将实践高层次的思维能力，从而完成数据分析、繁琐事务自动化、甚至是游戏开发等复杂任务。
+
+***
+
+## Copyright
+
+* Original text and graphics: © 2024 Manning Publications Co.
+* Chinese Translations: © CSS魔法, CC BY-NC-ND 4.0
