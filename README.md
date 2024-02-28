@@ -21,14 +21,14 @@
 
 0. 序章
 	* [欢迎加入](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)
-1. [借助 Copilot 走近 AI 辅助编程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/2)
+1. [第一章 走近 AI 辅助编程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/2)
 	* [1.1 我们如何与计算机对话](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/3)
-	* 1.2 About the technology
-	* 1.3 How Copilot changes how we learn to program
-	* 1.4 What else can Copilot do for us?
-	* 1.5 Risks and challenges of using Copilot
-	* 1.6 The skills we need
-	* 1.7 Societal concerns about AI code assistants like Copilot
+	* 1.2 本书涉及的技术
+	* 1.3 Copilot 如何改变我们学习编程的方式
+	* 1.4 Copilot 还可以为我们做什么？
+	* 1.5 使用 Copilot 的风险和挑战
+	* 1.6 我们所需的技能
+	* 1.7 大众对于 AI 编程助手的担忧
 	* 1.8 本章小结
 2. 快速上手 Copilot
 3. 设计函数
