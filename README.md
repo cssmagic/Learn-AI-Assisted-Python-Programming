@@ -33,8 +33,10 @@
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/10)
 2. 快速上手 Copilot
 3. 设计函数
-4. 阅读 Python 代码（上）
-5. [阅读 Python 代码（下）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/11)
+4. [理解 Python 代码（上）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/25)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/26)
+5. [理解 Python 代码（下）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/11)
 	* (本章正文略)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/18)
 6. [程序测试与提示词工程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/12)
