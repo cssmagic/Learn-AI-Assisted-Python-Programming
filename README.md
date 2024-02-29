@@ -30,23 +30,31 @@
 	* [1.5 使用 Copilot 的风险和挑战](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/7)
 	* [1.6 我们所需的技能](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/8)
 	* [1.7 大众对于 AI 编程助手的担忧](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/9)
-	* [1.8 本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/10)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/10)
 2. 快速上手 Copilot
 3. 设计函数
 4. 阅读 Python 代码（上）
-5. 阅读 Python 代码（下）
-6. 程序测试与提示词工程
-7. 分解问题
-8. 调试和更好地理解你的代码
-9. 繁琐事务自动化
-10. 开发小游戏
-11. 展望未来
-
-## 英文版正版购买渠道
-
-* [Manning 官网](https://www.manning.com/books/learn-ai-assisted-python-programming)：电子书、纸质书
-* [亚马逊](https://www.amazon.com/Learn-AI-assisted-Python-Programming-Copilot/dp/1633437787)：Kindle 电子书、纸质书
-* [天猫](https://detail.tmall.com/item.htm?id=750376185496)：纸质书
+5. [阅读 Python 代码（下）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/11)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/18)
+6. [程序测试与提示词工程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/12)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/19)
+7. [分解问题](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/13)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/20)
+8. [调试和更好地理解你的代码](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/14)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/21)
+9. [繁琐事务自动化](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/15)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/22)
+10. [开发小游戏](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/16)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/23)
+11. [展望未来](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/17)
+	* (本章正文略)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/24)
 
 ## 更多介绍
 
