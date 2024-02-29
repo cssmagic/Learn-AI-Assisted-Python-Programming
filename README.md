@@ -31,7 +31,9 @@
 	* [1.6 我们所需的技能](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/8)
 	* [1.7 大众对于 AI 编程助手的担忧](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/9)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/10)
-2. 快速上手 Copilot
+2. [快速上手 Copilot](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/29)
+	* (TBD)
+	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/30)
 3. [设计函数](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/27)
 	* (TBD)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/28)
