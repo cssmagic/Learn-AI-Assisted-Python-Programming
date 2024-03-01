@@ -1,6 +1,8 @@
 
 # 《AI 辅助编程：借助 GitHub Copilot 和 ChatGPT 掌握 Python》
 
+> ### 译者按
+>
 > 这可能是 “AI 辅助编程” 领域的第一本著作。原版由 Manning 公司出版于 2023 年底，中文版引进情况不详。本仓库节选部分章节试译，仅供个人学习之用，严禁用于商业用途。
 > 
 > 英文原文来自 Manning 出版公司发布的预览版，与最终版可能有所不同。
@@ -66,18 +68,17 @@
 
 **Writing computer programs in Python just got a lot easier! Use AI-assisted coding tools like GitHub Copilot and ChatGPT to turn your ideas into applications faster than ever.**
 
-**用 Python 编程现在变得超级简单！借助 AI 辅助编码工具，比如 GitHub Copilot 和 ChatGPT，你的想法可以更快地转化为可运行的程序。**
+**用 Python 编程现在变得超级简单！借助 AI 辅助编程工具，比如 GitHub Copilot 和 ChatGPT，你的想法可以更快地转化为可运行的程序。**
 
 AI has changed the way we write computer programs. With tools like Copilot and ChatGPT, you can describe what you want in plain English, and watch your AI assistant generate the code right before your eyes. It’s perfect for beginners, or anyone who’s struggled with the steep learning curve of traditional programming.
 
-AI 改变了我们编写计算机程序的方式。通过使用 Copilot 和 ChatGPT 这样的工具，你只需用简单的语言描述你的需求，就可以看到 AI 助手在你眼前生成代码。这对于初学者或曾在传统编程的学习曲线上苦苦挣扎的人们来说，实在是太完美了。
-
+AI 改变了我们编写程序的方式。通过使用 Copilot 和 ChatGPT 这样的工具，你只需用简单的语言描述你的需求，就可以看到 AI 助手在你眼前生成代码。这对于初学者或曾在传统编程的学习曲线上苦苦挣扎的人们来说，实在是太完美了。
 
 In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you’ll learn how to:
 
 在本书中，你将学会：
 
-*   Write fun and useful Python applications—no programming experience required!
+*   Write fun and useful Python applications—-no programming experience required!
 *   Use the Copilot AI coding assistant to create Python programs
 *   Write prompts that tell Copilot exactly what to do
 *   Read Python code and understand what it does
@@ -87,7 +88,7 @@ In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you�
 
 <!-- -->
 
-*   编写既有趣又实用的 Python 应用程序 —— 无需编程经验！
+*   编写既有趣又实用的 Python 应用程序——无需编程经验！
 *   利用 Copilot AI 编程助手来编写 Python 程序
 *   编写提示词，精确引导 Copilot
 *   阅读 Python 代码并理解其功能
