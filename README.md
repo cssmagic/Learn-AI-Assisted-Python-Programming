@@ -34,7 +34,7 @@
 	* [1.7 大众对于 AI 编程助手的担忧](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/9)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/10)
 2. [第二章 快速上手 Copilot](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/29)
-	* [2.1 准备好你的电脑，继续深入学习](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/31)
+	* [2.1 为接下来的学习做好准备工作](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/31)
 	* [2.2 设置你的系统](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/32)
 	* [2.3 在 VS Code 中使用 Copilot](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/33)
 	* [2.4 应对常见的 Copilot 难题](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/34)
