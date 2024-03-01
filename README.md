@@ -49,7 +49,7 @@
 7. [分解问题](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/13)
 	* (本章正文略)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/20)
-8. [调试和更好地理解你的代码](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/14)
+8. [调试代码并且更深入地理解代码](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/14)
 	* (本章正文略)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/21)
 9. [繁琐事务自动化](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/15)
