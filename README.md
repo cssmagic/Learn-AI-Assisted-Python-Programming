@@ -43,7 +43,7 @@
 3. [第三章 设计函数](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/27)
 	* 3.1 [Functions](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/36)
 	* 3.2 [Benefits of functions](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/37)
-	* 3.3 Roles of functions
+	* 3.3 [函数的角色](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/38)
 	* 3.4 What’s a reasonable task for a function?
 	* 3.5 The cycle of design of functions with Copilot
 	* 3.6 Examples of creating good functions with Copilot
