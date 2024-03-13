@@ -44,7 +44,7 @@
 	* [3.1 初识函数](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/36)
 	* [3.2 函数的益处](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/37)
 	* [3.3 函数的角色](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/38)
-	* 3.4 What’s a reasonable task for a function?
+	* [3.4 一个函数的合理任务应该是什么样的？](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/39)
 	* 3.5 The cycle of design of functions with Copilot
 	* 3.6 Examples of creating good functions with Copilot
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/28)
