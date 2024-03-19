@@ -115,4 +115,4 @@ _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ is a han
 ## Copyright
 
 * Original text and graphics: © 2024 Manning Publications Co.
-* Chinese Translations: © CSS魔法, CC BY-NC-ND 4.0
+* Chinese Translation: © CSS魔法, CC BY-NC-ND 4.0
