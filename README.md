@@ -54,7 +54,7 @@
 5. [第五章 理解 Python 代码（下）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/11)
 	* (本章正文略)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/18)
-6. [第六章 程序测试与提示词工程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/12)
+6. [第六章 程序测试与提示工程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/12)
 	* (本章正文略)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/19)
 7. [第七章 分解问题](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/13)
@@ -102,7 +102,7 @@ In _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ you�
 *   编写提示词，精确引导 Copilot
 *   阅读 Python 代码并理解其功能
 *   测试你的程序，确保它们按照你的意图运作
-*   利用提示词工程或人工微调来修复代码
+*   利用提示工程或人工微调来修复代码
 *   创造性地运用 Python 来优化工作流程
 
 _Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_ is a hands-on beginner’s guide that is written by two esteemed computer science university professors. It teaches you everything you need to start programming Python in an AI-first world. You’ll hit the ground running, writing prompts that tell your AI-assistant exactly what you want your programs to do. Along the way, you’ll pick up the essentials of Python programming and practice the higher-level thinking you’ll need to create working apps for data analysis, automating tedious tasks, and even video games.
