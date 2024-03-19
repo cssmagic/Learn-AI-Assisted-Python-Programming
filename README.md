@@ -46,7 +46,7 @@
 	* [3.3 函数的角色](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/38)
 	* [3.4 一个函数的合理任务应该是什么样的？](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/39)
 	* [3.5 使用 Copilot 设计函数的流程](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/40)
-	* 3.6 Examples of creating good functions with Copilot
+	* [3.6 与 Copilot 配合创建优秀函数的示例](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/41)
 	* [本章小结](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/28)
 4. [第四章 理解 Python 代码（上）](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/25)
 	* (本章正文略)
