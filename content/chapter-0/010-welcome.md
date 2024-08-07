@@ -1,7 +1,6 @@
 ---
 id: 1
 title: "[译] [010] 欢迎加入"
-tags: [Revised]
 ---
 
 # Welcome
