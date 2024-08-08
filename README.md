@@ -87,7 +87,7 @@
 
 #### 试读样章 <a name="preview">&nbsp;</a>
 
-* 本仓库提供部分章节的译稿预览，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读。
+* 本仓库提供部分章节的译稿预览，请到 [总目录](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/42) 中按章节阅读。
 * 前往 [异步社区](https://www.epubit.com/) 阅读免费的试读样章。
 
 <!--
