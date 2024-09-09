@@ -1,7 +1,7 @@
 
 # 《AI 辅助编程：借助 GitHub Copilot 和 ChatGPT 快速掌握 Python》
 
-> 这可能是 “AI 辅助编程” 领域的第一本著作。英文原版由 Manning 公司出版，中文版由人民邮电出版社引进，2024 年下半年即将上市！
+> 这可能是 “AI 辅助编程” 领域的第一本著作。英文原版由 Manning 公司出版，中文版由人民邮电出版社引进，2024 年 10 月即将上市！
 
 
 <img src="https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/assets/1231359/1ce9bd10-bc02-4cf4-9598-939d9ab3dd17" width="399" alt="Cover">
@@ -13,7 +13,7 @@
 * 作者：Leo Porter / Daniel Zingaro
 * 译者：CSS魔法
 * 出版社：人民邮电出版社 · 异步图书
-* 出版时间：（待定）
+* 出版时间：2024 年 10 月
 * ISBN：（待定）
 * 页数：约 300 页（胶版纸，黑白印刷）
 * 定价：（待定）
