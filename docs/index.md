@@ -8,7 +8,7 @@ tags: [文档]
 
 章节编号 | 章节标题 | 试读样章 <sup>[1]</sup> | 官方电子版 <sup>[2]</sup> | 备注
 :---:|---|:---:|:---:|---
-030 | **译者序** | (撰写中) |  (待出版)  |
+030 | **译者序** | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/48) |  (待出版)  |
 031| **原书推荐序** | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/43) | 〃 |
 032| 致谢| [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/44) | 〃 |
 033| **引言** | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/45) | 〃 |
