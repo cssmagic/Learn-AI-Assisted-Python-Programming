@@ -13,7 +13,7 @@ tags: [文档]
 032| 致谢| [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/44) | 〃 |
 033| **引言** | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/45) | 〃 |
 034| 关于作者 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/46) | 〃 |
-035| 关于封面插图 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/47) | 〃 |
+035| 关于封面插画 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/47) | 〃 |
 090| 欢迎加入（本书早期预览版的欢迎语） |[试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/1)| - |
 ||||
 **第一章** | **走近 AI 辅助编程** ||  |
@@ -42,8 +42,8 @@ tags: [文档]
 302 | 函数的益处 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/37)|〃|
 303 | 函数的角色 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/38)|〃|
 304 | 交给函数的合理任务应该是什么样的？ | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/39)|〃|
-305 | 使用 Copilot 设计函数的流程 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/40)|〃|
-306 | 与 Copilot 配合创建优秀函数的几个例子 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/41)|〃|
+305 | 与 Copilot 协作设计函数的流程 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/40)|〃|
+306 | 借助 Copilot 创建优秀函数的几个例子 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/41)|〃|
 307 | 本章小结 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/28)|〃|
 ||||
 **第四章** | **理解 Python 代码（上）**||  |
@@ -71,10 +71,10 @@ tags: [文档]
 **第七章** | **问题分解**| |  |
 700| 本章内容概要 | [试读](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/13)|(待出版)|
 701| 问题分解 | -|〃|
-702| 从顶至下设计的小示例 | -|〃|
+702| 自顶向下设计的小示例 | -|〃|
 703| 作者特征识别 | -|〃|
 704| 采用自顶向下设计来实现作者特征识别 | -|〃|
-705| 将处程环节分解为子问题 | -|〃|
+705| 将处理环节分解为子问题 | -|〃|
 706| 总结我们的自顶向下设计 | -|〃|
 707| 实现所有函数 | -|〃|
 708| 进一步探讨 | -|〃|
