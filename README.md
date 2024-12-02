@@ -8,7 +8,7 @@
 
 ## 基本信息
 
-* 中文版书名：**《AI 辅助编程 Python 实战》**
+* 中文版书名：**《AI 辅助编程 Python 实战：基于 GitHub Copilot 和 ChatGPT》**
 * 英文原版书名：_Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT_
 * 作者：Leo Porter / Daniel Zingaro
 * 译者：CSS魔法
