@@ -1,10 +1,11 @@
 
 # 《AI 辅助编程 Python 实战》
 
-> 这可能是 “AI 辅助编程” 领域的第一本著作。英文原版由 Manning 公司出版，中文版由人民邮电出版社引进，2025 年 1 月即将上市！
+> 英文原书是 “AI 辅助编程” 领域的第一本著作，广受好评。
+>
+> 英文版由 Manning 公司出版，中文版由人民邮电出版社引进，魔法哥担任译者。
 
-
-<img src="https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/assets/1231359/1ce9bd10-bc02-4cf4-9598-939d9ab3dd17" width="399" alt="Cover">
+<img src="https://github.com/user-attachments/assets/c112782f-66f8-4132-810d-19a3b8700832" width="400" alt="Cover">
 
 ## 基本信息
 
@@ -13,15 +14,19 @@
 * 作者：Leo Porter / Daniel Zingaro
 * 译者：CSS魔法
 * 出版社：人民邮电出版社 · 异步图书
-* 出版时间：2025 年 1 月
+* 出版时间：2025 年 3 月
 * ISBN：9787115659262
-* 页数：约 300 页（胶版纸，黑白印刷）
-* 定价：（待定）
+* 页数：约 276 页（胶版纸，黑白印刷）
+* 定价：89.80 元人民币
+
+<!-- -->
+
+* 购买纸质书：[京东自营](https://cmcm.link/book/3/jd) | [签名书](https://cmcm.link/book/3/wd)
+* 购买电子版：[异步社区官方电子书](https://www.epubit.com/bookDetails?id=UBe3978fe57338)
 
 <!-- -->
 
 * 前瞻介绍：[新书《AI 辅助编程》在翻译了，不容错过！](https://mp.weixin.qq.com/s/VJt8IvzGJ4QUFUeV-i5BZw)
-
 
 ## 原书介绍
 
@@ -29,7 +34,7 @@
 
 编写计算机程序的方式已经发生了翻天覆地的变化。通过 GitHub Copilot，你只需用通俗易懂的自然语言来描述你的需求，AI 便会迅速为你生成相应的代码。
 
-本书将指导你利用AI来创建和优化 Python 程序，即便您之前没有任何编写计算机代码的经验。你不必深陷于繁琐的底层编程细节，而是学会借助 AI 助手迅速将你的创意转化为现实。在这一过程中，你还将逐渐掌握 Python 语言，从而能够理解并改进 AI 助手所创造的成果。
+本书将指导你利用 AI 来创建和优化 Python 程序，即便您之前没有任何编写计算机代码的经验。你不必深陷于繁琐的底层编程细节，而是学会借助 AI 助手迅速将你的创意转化为现实。在这一过程中，你还将逐渐掌握 Python 语言，从而能够理解并改进 AI 助手所创造的成果。
 
 只要你会在电脑上移动文件和安装程序，你就能学会编程！
 
@@ -83,7 +88,7 @@
 #### 试读样章 <a name="preview">&nbsp;</a>
 
 * 本仓库提供部分章节的译稿预览，请到 [总目录](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming/issues/42) 中按章节阅读。
-* 前往 [异步社区](https://www.epubit.com/) 阅读免费的试读样章。
+* 前往 [异步社区](https://www.epubit.com/onlineEbookReader?id=284b12b3-9a4f-4f58-9733-f88b6e1f2da4&pid=7e218a57-4cc8-4c8c-bd83-680684a3aa22) 阅读免费的试读样章。
 
 <!--
 
@@ -108,4 +113,4 @@
 ### Copyright
 
 * 英文原版： © 2024 Manning Publications Co.
-* 中文版： © 2024 人民邮电出版社
+* 中文版： © 2025 人民邮电出版社
